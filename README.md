@@ -4,3 +4,5 @@ Hello, everyone! This is GitHub. I suggest you find out how to use this site bec
 Branches, commits, and pull requests are all core parts of GitHub, and you can read about them in the "Hello World" guide. "Understanding the GitHub Flow" also has some good clarifying information.
  
 You can view the code by going to https://github.com/WTMCRobotics. Although, you must be logged in to do anything.
+
+We can use this repository was just to let you know what is going on, and we can put general ideas, information, or resource about robotics here.
