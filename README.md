@@ -5,4 +5,4 @@ Branches, commits, and pull requests are all core parts of GitHub, and you can r
  
 You can view the code by going to https://github.com/WTMCRobotics. Although, you must be logged in to do anything.
 
-We can use this repository was just to let you know what is going on, and we can put general ideas, information, or resource about robotics here.
+This repository was just to let you know what is going on, and we can put general ideas, information, or resource about robotics here.
